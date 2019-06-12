@@ -14,4 +14,4 @@ Repositorio del curso Diseño de Paisajes Virtuales, llevado a cabo por el Área
 [Unity](Unity/index.md)
 
 ### Recursos de software y descargas
-[Proyecto base de Unity - 240MB](https://medialabcloud.enba.edu.uy/s/WQfc2PKasenjMjR)
+[**Paquete de recursos de Unity** ](https://medialabcloud.enba.edu.uy/s/WQfc2PKasenjMjR) - Contiene assets low poly y scripts usados en el curso - 240MB
